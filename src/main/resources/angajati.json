@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion Popescu",
+    "post": "Manager",
+    "dataAngajarii": "01/04/2024",
+    "salariu": 5000.0
+  },
+  {
+    "nume": "Ana Ionescu",
+    "post": "Asistent",
+    "dataAngajarii": "15/03/2018",
+    "salariu": 3000.0
+  },
+  {
+    "nume": "George Marinescu",
+    "post": "Inginer",
+    "dataAngajarii": "20/06/2019",
+    "salariu": 4500.0
+  },
+  {
+    "nume": "Elena Stan",
+    "post": "Contabil",
+    "dataAngajarii": "10/07/2024",
+    "salariu": 4000.0
+  },
+  {
+    "nume": "Mihai Dumitru",
+    "post": "Tehnician",
+    "dataAngajarii": "05/04/2024",
+    "salariu": 2400.0
+  }
+]
